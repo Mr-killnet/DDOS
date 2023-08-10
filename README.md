@@ -28,7 +28,7 @@ Tool devoloped by Mr-killnet.
 Github   : https://github.com/Mr-killnet
 Telegram : https://t.me/I_M_MR_Robot
 	
-Screenshort
-	
-![WhatsApp Image 2022-12-31 at 14 58 56](https://user-images.githubusercontent.com/118425907/210131859-a6f45098-36a6-4f78-a2dd-e430e2bb3faa.jpg
-	
+video Record
+
+ ![Screenshot_2023-08-10-09-53-16-375](https://github.com/Mr-killnet/DDOS/assets/141546051/5967e74c-77e8-4f36-8dbc-6a0ec07c48ff)
+
